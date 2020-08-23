@@ -1,0 +1,4 @@
+com\fqy\service\AsyncService.class
+com\fqy\service\ScheduledService.class
+com\fqy\controller\AsyncController.class
+com\fqy\SpringbootTaskApplication.class
