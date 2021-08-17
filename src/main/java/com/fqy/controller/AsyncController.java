@@ -20,4 +20,12 @@ public class AsyncController {
 
 
     }
+    
+     @GetMapping("/hello2")
+    public String hello(){
+
+        asyncService.hello();
+        return ("Faild!");
+
+    }
 }
